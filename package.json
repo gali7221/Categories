@@ -1,0 +1,23 @@
+{
+  "name": "egglyarch",
+  "version": "1.0.0",
+  "description": "eggly =====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "egghead",
+    "gulp"
+  ],
+  "author": "Gamal Ali",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.0.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-serve": "^1.2.0",
+    "jshint": "^2.9.1"
+  }
+}
